@@ -1,0 +1,21 @@
+{
+  "name": "pg2-8",
+  "authors": [
+    "fazawfeeeefld185498"
+  ],
+  "description": "PG2-8",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pixi.js": "^4.2.2"
+  }
+}
